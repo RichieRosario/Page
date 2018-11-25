@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fulger.me.iml" filepath="$PROJECT_DIR$/.idea/modules/fulger.me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fulger.me_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fulger.me_main.iml" group="fulger.me" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fulger.me_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fulger.me_test.iml" group="fulger.me" />
+    </modules>
+  </component>
+</project>
